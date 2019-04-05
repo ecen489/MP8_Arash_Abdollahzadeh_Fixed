@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "70589795013",
+    "firebase_url": "https://mp8arashabdollahzadeh.firebaseio.com",
+    "project_id": "mp8arashabdollahzadeh",
+    "storage_bucket": "mp8arashabdollahzadeh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70589795013:android:1248185ad7ace1b0",
+        "android_client_info": {
+          "package_name": "com.example.mp8_arash_abdollahzadeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70589795013-810at1kt3rm03r4aqrh4i7qo30g9cid7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mp8_arash_abdollahzadeh",
+            "certificate_hash": "e42a27ff9cb7d29b9601d9f723f846f5b52ddfd9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-518Ay0nZrRfS9k9L-GMPpsJQMPt9gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70589795013-6tep1elrk0sda31usk04kf5koejm9tie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
